@@ -36,7 +36,7 @@ Player2Hits = False
 #P1Sel is Player 1 select screen
 #P2Sel is Player 2 select screen
 #Stages is the stage select screen
-#Game is the actual game
+#Game is the actual game (Ky)
 Page = "Title"
 
 
